@@ -1,1 +1,3 @@
-From the moment I first opened a web browser, I wanted to know how to create websites like the ones I visited. In those days all I had was paint, notepad++, and 2MB of free server space. The tools have become more sophisticated and the work more complex and impactful, but the spirit has stayed the same.
+## Pardon My Dust
+
+It's looking a little barren around here while I organize the clutter and modernize older projects.
